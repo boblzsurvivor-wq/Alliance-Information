@@ -1,3 +1,8 @@
+---
+layout: default
+title: Alliance Structure
+---
+
 # 🏗️ Alliance Structure
 
 How our alliance is organized, our leadership team, roles and responsibilities, and how we make decisions.

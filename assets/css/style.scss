@@ -41,3 +41,26 @@
   font-size: 1.05rem;
   line-height: 1.7;
 }
+
+.page-header {
+  padding: 1.5rem 1rem;
+}
+
+.site-nav {
+  margin-top: 1rem;
+}
+
+.site-nav a {
+  color: white;
+  margin: 0 0.75rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.site-nav a:hover {
+  text-decoration: underline;
+}
+
+.main-content {
+  max-width: 900px;
+}

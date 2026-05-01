@@ -6,6 +6,9 @@ url: "https://boblzsurvivor-wq.github.io"
 
 remote_theme: kitian616/jekyll-text-theme
 
+text_skin: default
+highlight_theme: default
+
 plugins:
   - jekyll-remote-theme
   - jekyll-paginate

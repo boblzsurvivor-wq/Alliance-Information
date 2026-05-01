@@ -1,8 +1,3 @@
----
-layout: default
-title: Alliance Information Hub
----
-
 # 🏠 Alliance Information Hub
 
 Welcome to the official Alliance Information Hub for Last Z Survival Shooter! This is your one-stop destination for everything you need to know about our alliance, how to join, and how to succeed.

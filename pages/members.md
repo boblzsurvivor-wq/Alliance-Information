@@ -1,3 +1,8 @@
+---
+layout: default
+title: Member Information
+---
+
 # 👥 Member Information
 
 Everything you need to know about joining our alliance, member tiers, expectations, and resources available to you.

@@ -1,0 +1,104 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Hero/header */
+.page-header {
+  background: linear-gradient(135deg, #111827 0%, #2563eb 45%, #7c3aed 100%);
+  padding: 4rem 1rem;
+}
+
+.project-name {
+  font-weight: 800;
+  letter-spacing: -0.03em;
+}
+
+.project-tagline {
+  font-size: 1.25rem;
+  opacity: 0.95;
+}
+
+/* Main content */
+.main-content {
+  max-width: 1100px;
+  font-size: 1.05rem;
+  line-height: 1.75;
+}
+
+/* Headings */
+.main-content h1,
+.main-content h2,
+.main-content h3 {
+  color: #111827;
+  font-weight: 800;
+}
+
+.main-content h2 {
+  border-bottom: 3px solid #e5e7eb;
+  padding-bottom: 0.4rem;
+}
+
+/* Links */
+.main-content a {
+  color: #2563eb;
+  font-weight: 600;
+}
+
+.main-content a:hover {
+  color: #7c3aed;
+}
+
+/* Cards for sections */
+.main-content h3 {
+  margin-top: 2rem;
+  padding: 1rem 1.25rem;
+  background: #f8fafc;
+  border-left: 5px solid #2563eb;
+  border-radius: 12px;
+}
+
+/* Tables */
+.main-content table {
+  display: table;
+  width: 100%;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.main-content table th {
+  background: #111827;
+  color: white;
+}
+
+.main-content table td,
+.main-content table th {
+  padding: 0.85rem 1rem;
+}
+
+/* Code blocks */
+.main-content pre,
+.main-content code {
+  border-radius: 8px;
+}
+
+/* Horizontal rules */
+.main-content hr {
+  height: 2px;
+  background: #e5e7eb;
+}
+
+/* Mobile */
+@media screen and (max-width: 600px) {
+  .page-header {
+    padding: 2.5rem 1rem;
+  }
+
+  .project-name {
+    font-size: 2rem;
+  }
+
+  .main-content {
+    font-size: 1rem;
+  }
+}

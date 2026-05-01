@@ -1,3 +1,8 @@
+---
+layout: default
+title: Editing & Updating This Site
+---
+
 # 🛠️ Editing & Updating This Site
 
 Welcome! This guide shows you how to edit and update this GitHub Pages site, even if you've never used GitHub before.

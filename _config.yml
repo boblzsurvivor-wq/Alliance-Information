@@ -8,5 +8,5 @@ url: "https://boblzsurvivor-wq.github.io"
 theme: slate
 #remote_theme: remote_theme: mmistakes/minimal-mistakes
 
-plugins:
-  - jekyll-remote-theme
+#plugins:
+#  - jekyll-remote-theme

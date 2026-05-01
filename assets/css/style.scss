@@ -17,24 +17,6 @@
   margin-bottom: 0.5rem;
 }
 
-/* Navigation bar */
-.site-nav {
-  background: #159957;
-  padding: 0.75rem 1rem;
-  text-align: center;
-}
-
-.site-nav a {
-  color: white;
-  font-weight: 600;
-  margin: 0 0.75rem;
-  text-decoration: none;
-}
-
-.site-nav a:hover {
-  text-decoration: underline;
-}
-
 /* Content readability */
 .main-content {
   max-width: 900px;
@@ -46,6 +28,7 @@
   padding: 1.5rem 1rem;
 }
 
+/* Navigation bar */
 .site-nav {
   margin-top: 1rem;
 }

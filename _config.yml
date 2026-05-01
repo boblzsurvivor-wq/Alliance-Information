@@ -4,7 +4,11 @@ description: A comprehensive guide to our Last Z Survival Shooter alliance
 baseurl: "/Alliance-Information"
 url: "https://boblzsurvivor-wq.github.io"
 
-remote_theme: "kitian616/jekyll-TeXt-theme"
+remote_theme: kitian616/jekyll-text-theme
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jemoji

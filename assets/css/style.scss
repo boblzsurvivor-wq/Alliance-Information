@@ -3,26 +3,41 @@
 
 @import "{{ site.theme }}";
 
-/* Slightly cleaner layout */
+/* Smaller Cayman banner */
+.page-header {
+  padding: 1.5rem 1rem;
+}
+
+.project-name {
+  font-size: 2rem;
+}
+
+.project-tagline {
+  font-size: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+/* Navigation bar */
+.site-nav {
+  background: #159957;
+  padding: 0.75rem 1rem;
+  text-align: center;
+}
+
+.site-nav a {
+  color: white;
+  font-weight: 600;
+  margin: 0 0.75rem;
+  text-decoration: none;
+}
+
+.site-nav a:hover {
+  text-decoration: underline;
+}
+
+/* Content readability */
 .main-content {
   max-width: 900px;
   font-size: 1.05rem;
   line-height: 1.7;
-}
-
-/* Subtle heading improvement */
-.main-content h2 {
-  border-bottom: 2px solid #eaecef;
-  padding-bottom: 0.3rem;
-}
-
-/* Better links (not too flashy) */
-.main-content a {
-  font-weight: 600;
-}
-
-/* Cleaner tables */
-.main-content table th {
-  background: #f6f8fa;
-  color: #24292f;
 }

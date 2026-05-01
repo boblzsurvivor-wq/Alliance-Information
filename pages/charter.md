@@ -1,3 +1,8 @@
+---
+layout: default
+title: Alliance Charter
+---
+
 # 📜 Alliance Charter
 
 The official founding document of our alliance. This charter outlines our mission, core values, code of conduct, and governance principles.

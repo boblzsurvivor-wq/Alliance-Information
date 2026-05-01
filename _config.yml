@@ -5,7 +5,7 @@ show_downloads: false
 baseurl: "/Alliance-Information"
 url: "https://boblzsurvivor-wq.github.io"
 
-remote_theme: just-the-docs/just-the-docs
+remote_theme: theoremoon/jekyll-text-theme
 
 plugins:
   - jekyll-remote-theme

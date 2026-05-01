@@ -8,6 +8,7 @@
   padding: 1.5rem 1rem;
 }
 
+/* Title sizing */
 .project-name {
   font-size: 2rem;
 }
@@ -17,34 +18,29 @@
   margin-bottom: 0.5rem;
 }
 
-/* Content readability */
-.main-content {
-  max-width: 900px;
-  font-size: 1.05rem;
-  line-height: 1.7;
-}
-
-.page-header {
-  padding: 1.5rem 1rem;
-}
-
-/* Navigation bar */
+/* 🔥 FIX: force nav to be transparent */
 .site-nav {
   margin-top: 1rem;
+  background: transparent !important;
 }
 
+/* Remove any background from links too */
 .site-nav a {
   color: white;
   margin: 0 0.75rem;
   font-weight: 600;
   text-decoration: none;
-  background: transparent;
+  background: transparent !important;
 }
 
+/* Hover */
 .site-nav a:hover {
   text-decoration: underline;
 }
 
+/* Content readability */
 .main-content {
   max-width: 900px;
+  font-size: 1.05rem;
+  line-height: 1.7;
 }

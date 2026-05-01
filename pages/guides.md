@@ -1,3 +1,8 @@
+---
+layout: default
+title: Guides & Resources
+---
+
 # 📖 Guides & Resources
 
 Your comprehensive guide to succeeding in Last Z Survival Shooter and coordinating with the alliance.

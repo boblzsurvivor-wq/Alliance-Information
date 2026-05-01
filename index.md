@@ -1,3 +1,17 @@
+---
+layout: default
+title: Alliance Information Hub
+---
+
+<nav class="site-nav">
+  <a href="{{ site.baseurl }}/">Home</a>
+  <a href="{{ site.baseurl }}/pages/charter.html">Charter</a>
+  <a href="{{ site.baseurl }}/pages/structure.html">Structure</a>
+  <a href="{{ site.baseurl }}/pages/members.html">Members</a>
+  <a href="{{ site.baseurl }}/pages/guides.html">Guides</a>
+  <a href="{{ site.baseurl }}/pages/editing-guide.html">Editing</a>
+</nav>
+
 # 🏠 Alliance Information Hub
 
 Welcome to the official Alliance Information Hub for Last Z Survival Shooter! This is your one-stop destination for everything you need to know about our alliance, how to join, and how to succeed.

@@ -2,6 +2,7 @@
 layout: default
 title: "VS Weekly Command Guide"
 nav_order: 1
+permalink: /pages/guides_data/vs_event/
 ---
 
 # VS Weekly Command Guide

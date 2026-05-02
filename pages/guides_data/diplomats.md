@@ -1,8 +1,8 @@
 ---
 title: "Why hit the hand? A diplomats perspective"
 author: Bob
+layout: default
 ---
-
 ## Overview
 
 This guide explains why diplomats and alliance help are so powerful, using simple math.

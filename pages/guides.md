@@ -4,7 +4,7 @@ title: Guides & Resources
 permalink: /pages/guides/
 ---
 
-# 📖 Guides & Resources
+# Guides & Resources
 
 Your central hub for alliance strategy, coordination, and key systems.
 

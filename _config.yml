@@ -1,6 +1,6 @@
 alliance_name: "Chaos Kings"
 title: "{{site.alliance_name }} - Alliance Hub"
-description: description: "A coordinated alliance where fun comes first and teamwork drives success."
+description: "A coordinated alliance where fun comes first and teamwork drives success."
 baseurl: "/Alliance-Information"
 url: "https://boblzsurvivor-wq.github.io"
 theme: jekyll-theme-cayman

@@ -52,18 +52,6 @@ Real life always comes first — communication matters more than perfect partici
 
 ---
 
-## WAR & COORDINATION
-
-During coordinated activities:
-
-- Follow instructions from leadership  
-- Support rallies and reinforcements when possible  
-- Avoid actions that disrupt team strategy  
-
-The goal is teamwork, not individual play.
-
----
-
 ## GROWTH
 
 Members should:

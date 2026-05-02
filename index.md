@@ -13,7 +13,7 @@ Welcome to the Alliance Hub for *Last Z Survival Shooter*—your quick guide to 
 - 📜 [Alliance Charter]({{ site.baseurl }}/pages/charter.html) – Values & rules  
 - 🏗️ [Structure]({{ site.baseurl }}/pages/structure.html) – Roles & progression  
 - 👥 [Members]({{ site.baseurl }}/pages/members.html) – Join & expectations  
-- 📖 [Guides]({{ site.baseurl }}/pages/guides-index.html) – Tips & strategies  
+- 📖 [Guides]({{ site.baseurl }}/pages/guides.html) – Tips & strategies  
 - 🛠️ [Editing Guide]({{ site.baseurl }}/pages/editing-guide.html) – Update the site  
 
 ---

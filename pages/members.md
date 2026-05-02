@@ -12,13 +12,25 @@ permalink: /pages/members.html
 
 Every member contributes to the strength of {{ site.alliance_name }}.
 
-Small consistent actions across all members create large results.
+The goal is not perfection — it is **consistent participation, teamwork, and enjoyment**.
+
+Small actions across all members create large results.
+
+---
+
+## CORE EXPECTATION
+
+**Be active, supportive, and engaged.**
+
+We are here to grow together and enjoy the game.
 
 ---
 
 ## DAILY EXPECTATIONS
 
-- Stay active  
+Members are expected to:
+
+- Stay reasonably active  
 - Use alliance help  
 - Read alliance messages  
 - Support other members  
@@ -27,35 +39,52 @@ Small consistent actions across all members create large results.
 
 ## EVENT EXPECTATIONS
 
-- Participate in events  
-- Follow instructions  
-- Prepare when required  
-- Avoid wasting resources  
+We aim to be competitive, not forced.
+
+Members should:
+
+- Participate in events when available  
+- Follow coordination where needed  
+- Prepare when guidance is given  
+- Avoid unnecessary waste  
+
+Real life always comes first — communication matters more than perfect participation.
 
 ---
 
-## WAR EXPECTATIONS
+## WAR & COORDINATION
 
-- Follow commands  
-- Join rallies when instructed  
-- Reinforce when required  
-- Do not make independent attacks  
+During coordinated activities:
+
+- Follow instructions from leadership  
+- Support rallies and reinforcements when possible  
+- Avoid actions that disrupt team strategy  
+
+The goal is teamwork, not individual play.
 
 ---
 
-## GROWTH EXPECTATIONS
+## GROWTH
 
-- Improve power and strength  
-- Follow development guidance  
-- Meet performance goals  
+Members should:
+
+- Improve their account over time  
+- Follow guidance from officers  
+- Work toward shared goals  
+
+Growth is encouraged, not enforced.
 
 ---
 
 ## COMMUNICATION
 
-- Read notices and mail  
-- Respond when required  
+Members should:
+
+- Read notices and alliance mail  
+- Respond when needed  
 - Ask questions if unsure  
+
+Good communication prevents problems.
 
 ---
 
@@ -64,8 +93,21 @@ Small consistent actions across all members create large results.
 Members must:
 
 - Be respectful  
-- Avoid conflict  
-- Represent the alliance well  
+- Support a positive environment  
+- Avoid unnecessary conflict  
+
+This is a team — not just a group of players.
+
+---
+
+## FLEXIBILITY
+
+We understand:
+
+- Real life comes first  
+- Not everyone can participate all the time  
+
+Consistency matters more than perfection.
 
 ---
 
@@ -73,16 +115,27 @@ Members must:
 
 Members may be removed for:
 
-- Inactivity  
-- Ignoring instructions  
-- Poor participation  
+- Extended inactivity without communication  
+- Repeated refusal to follow key instructions  
 - Toxic behaviour  
-- Attacking alliance members  
+- Actions that harm the alliance  
 
 ---
 
 ## KEY IDEA
 
-The alliance works because everyone contributes.
+The alliance works because people choose to contribute.
 
-Helping, participating, and following direction creates long term success.
+Leadership supports you.  
+Officers guide you.  
+You help build the alliance.
+
+---
+
+## FINAL NOTE
+
+Play well. Support each other.
+
+And most importantly:
+
+**Have fun.**

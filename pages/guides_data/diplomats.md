@@ -2,6 +2,7 @@
 title: "Why hit the hand? A diplomats perspective"
 author: Bob
 layout: default
+permalink: /pages/guides_data/diplomats/
 ---
 ## Overview
 

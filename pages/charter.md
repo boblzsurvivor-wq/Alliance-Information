@@ -12,7 +12,7 @@ permalink: /pages/charter.html
 
 This Charter defines how {{ site.alliance_name }} operates, how decisions are made, and what is expected from all members.
 
-Our goal is to maintain strength, coordination, and long term growth through clear leadership and consistent participation.
+Our goal is to build a strong, coordinated alliance where players can grow, compete, and most importantly enjoy the game.
 
 ---
 
@@ -20,21 +20,31 @@ Our goal is to maintain strength, coordination, and long term growth through cle
 
 The Alliance exists to:
 
-- Dominate competitive events  
-- Strengthen all members  
-- Maintain strategic control  
-- Operate as a unified force  
+- Be competitive in events  
+- Support and grow all members  
+- Maintain a strong and stable alliance  
+- Operate as a coordinated team  
+- Create a fun and positive environment  
+
+---
+
+## CORE PRINCIPLE
+
+**Fun comes first.**
+
+We aim to be competitive, but not at the cost of enjoyment.  
+A strong alliance is built on players who want to be here.
 
 ---
 
 ## CORE VALUES
 
-- Loyalty  
-- Discipline  
-- Communication  
-- Organization  
 - Respect  
+- Communication  
 - Accountability  
+- Teamwork  
+- Consistency  
+- Enjoyment  
 
 ---
 
@@ -45,34 +55,97 @@ The alliance is led by:
 - R5 Commander  
 - R4 Officers  
 
-The structure is simple:
+### Leadership Philosophy
 
-- R5 sets direction and makes final decisions  
-- R4 officers execute and enforce  
-- Members follow direction and contribute  
+Leadership exists to:
 
----
+- Represent the members  
+- Support player growth  
+- Support alliance growth  
+- Enable coordination and success  
 
-## AUTHORITY
-
-- R5 has final authority  
-- Officers act under R5 direction  
-- Orders during events and war must be followed  
-
-Failure to follow leadership direction may result in removal.
+Leadership is not about control — it is about responsibility and service.
 
 ---
 
-## WAR PROTOCOL
+## AUTHORITY & ACCOUNTABILITY
 
-During war:
+### R5 — Alliance Commander
 
-- R5 has command authority  
-- Warlord directs combat  
-- Rally and reinforcement instructions must be followed  
-- No unsanctioned attacks  
+The R5:
 
-War requires discipline and coordination.
+- Sets direction  
+- Delegates responsibility to R4 officers  
+- Appoints a Deputy  
+- Makes final decisions when required  
+
+However:
+
+- The R5 is accountable to the alliance  
+- Authority comes with responsibility  
+- Decisions should reflect the best interests of members  
+
+---
+
+## R5 ABSENCE PROTOCOL
+
+The R5 may appoint one R4 as Deputy.
+
+### Deputy Role
+
+The Deputy:
+
+- Acts as second-in-command  
+- Supports the R5 in coordination and decisions  
+- Assumes temporary leadership when the R5 is unavailable  
+
+There should only be one active Deputy at any time.
+
+### Temporary Absence
+
+If the R5 is unavailable:
+
+- The Deputy assumes operational control  
+- R4 officers continue normal coordination  
+- Stability and continuity take priority  
+
+### Extended Absence
+
+If the R5 is inactive without communication for an extended period (e.g. 3 days):
+
+- The Deputy and R4 officers may initiate a leadership review  
+- The R5 replacement process may be triggered  
+
+---
+
+## R5 ACCOUNTABILITY & REPLACEMENT
+
+If the R5:
+
+- Becomes inactive  
+- Acts against alliance interests  
+- Fails to support the alliance  
+
+Then:
+
+- R4 officers may initiate a leadership review  
+- A majority agreement between active R4s is required  
+- A replacement R5 is selected from trusted leadership  
+
+This process exists to protect the alliance, not create conflict.
+
+---
+
+## OFFICER ROLE
+
+R4 officers:
+
+- Execute strategy  
+- Support members  
+- Enforce rules  
+- Manage operations  
+
+They are responsible for keeping the alliance running smoothly.
 
 ---
 
@@ -82,12 +155,28 @@ War requires discipline and coordination.
 - Final warning  
 - Removal  
 
-Severe misconduct may result in immediate removal.
+Severe behaviour may result in immediate removal.
+
+---
+
+## MEMBER EXPECTATION
+
+Members are expected to:
+
+- Stay active  
+- Participate when possible  
+- Follow key instructions  
+- Respect others  
+- Contribute to the alliance  
 
 ---
 
 ## FINAL AUTHORITY
 
-This Charter overrides all previous rules.
+This Charter defines how {{ site.alliance_name }} operates.
 
-By remaining in {{ site.alliance_name }}, members agree to follow it.
+By remaining in the alliance, members agree to follow these principles.
+
+Above all:
+
+**Play well, support each other, and enjoy the game.**

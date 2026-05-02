@@ -1,5 +1,5 @@
 alliance_name: "Chaos Kings"
-title: title: "Chaos Kings - Alliance Hub"
+title: "{{site.alliance_name } - Alliance Hub"
 description: description: "A coordinated alliance where fun comes first and teamwork drives success."
 baseurl: "/Alliance-Information"
 url: "https://boblzsurvivor-wq.github.io"

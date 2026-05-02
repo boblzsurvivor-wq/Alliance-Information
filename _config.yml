@@ -1,8 +1,6 @@
 title: Alliance Information
 description: A comprehensive guide to our Last Z Survival Shooter alliance
-
 baseurl: "/Alliance-Information"
 url: "https://boblzsurvivor-wq.github.io"
-
 theme: jekyll-theme-cayman
 show_downloads: false

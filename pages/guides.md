@@ -15,14 +15,14 @@ Your central hub for alliance strategy, coordination, and key systems.
 ### ⚔️ VS Event Guide
 Learn how to maximise points, prepare efficiently, and coordinate as an alliance during VS events. Covers daily strategy, resource timing, and optimisation.
 
-👉 [Read Guide](/guides/vs-event/)
+👉 [Read Guide](/guides_data/vs-event/)
 
 ---
 
 ### 🕊️ Diplomats Guide
 Understand how to manage alliance relationships, negotiate agreements, and maintain stability across the state.
 
-👉 [Read Guide](/guides/diplomats/)
+👉 [Read Guide](/guides_data/diplomats/)
 
 ---
 

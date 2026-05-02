@@ -10,9 +10,9 @@ permalink: /pages/structure.html
 
 ## OVERVIEW
 
-{{ site.alliance_name }} operates through a role based structure.
+{{ site.alliance_name }} operates through a role based structure designed for clarity, coordination, and consistent performance.
 
-Each role exists to ensure the alliance runs efficiently, grows consistently, and performs well in events.
+Each role exists to support the alliance and its members.
 
 ---
 
@@ -21,12 +21,27 @@ Each role exists to ensure the alliance runs efficiently, grows consistently, an
 The R5 is responsible for:
 
 - Final decision making  
-- War authorization  
+- Alliance direction  
 - Diplomacy  
 - Officer management  
-- Emergency actions  
+- Delegating responsibility  
 
-The R5 provides direction for the entire alliance.
+The R5 is accountable for the success and stability of the alliance.
+
+---
+
+## DEPUTY (R4)
+
+The Deputy is appointed by the R5.
+
+### Responsibilities
+
+- Acts as second-in-command  
+- Supports the R5 in coordination and decision making  
+- Takes over when the R5 is unavailable  
+- Ensures continuity of leadership  
+
+There should only be one active Deputy at any time.
 
 ---
 
@@ -42,7 +57,7 @@ Officers manage execution, coordination, and enforcement.
 
 - Leads wars in real time  
 - Decides attacks and rallies  
-- Gives commands  
+- Issues commands  
 
 **War Strategist**
 
@@ -107,4 +122,4 @@ Officers may:
 - Issue warnings  
 - Coordinate operations  
 
-Officers may not override R5 decisions.
+Officers operate under R5 direction and may not override it.

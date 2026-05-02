@@ -4,6 +4,7 @@ author: Bob
 layout: default
 permalink: /pages/guides_data/diplomats/
 ---
+
 ## Overview
 
 This guide explains why diplomats and alliance help are so powerful, using simple math.

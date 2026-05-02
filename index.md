@@ -7,12 +7,19 @@ title: {{ site.alliance_name }} Alliance Hub
 
 ## Mission
 
-We are a disciplined, coordinated alliance focused on strength, efficiency, and consistent growth.
+We are a coordinated alliance focused on growth, teamwork, and enjoying the game.
 
-Our goal is simple:
-- Win events  
-- Support our members  
-- Operate as a unified strategic team  
+We aim to be competitive, but **fun comes first**.  
+A strong alliance is built on players who want to be here.
+
+---
+
+## ⚡ What We Value
+
+- Support each other  
+- Play smart  
+- Stay active  
+- Keep it fun  
 
 ---
 
@@ -25,8 +32,14 @@ Our goal is simple:
 
 ---
 
-## ⚡ Key Principle
+## 🧭 How We Operate
 
-Small actions repeated across the alliance create massive results.
+- Leadership supports members  
+- Officers coordinate and guide  
+- Members contribute and grow together  
 
-Use help. Follow direction. Stay active.
+---
+
+## 💬 Core Principle
+
+**We play to compete — we stay because it is fun.**

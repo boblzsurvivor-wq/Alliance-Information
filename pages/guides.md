@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Guides & Resources
+permalink: /pages/guides/
 ---
 
 # 📖 Guides & Resources
@@ -11,18 +12,16 @@ Your central hub for alliance strategy, coordination, and key systems.
 
 ## 🔥 Core Guides
 
-### ⚔️ VS Event Guide
-Learn how to maximise points, prepare efficiently, and coordinate as an alliance during VS events. Covers daily strategy, resource timing, and optimisation.
+{% assign guides = site.pages | where_exp: "page", "page.path contains 'pages/guides_data/'" | sort: "title" %}
 
-👉 [Read Guide]({{ site.baseurl }}/pages/guides/vs_event)
+{% for guide in guides %}
+### {{ guide.title }}
 
----
+{{ guide.description }}
 
-### 🕊️ Diplomats Guide
-Understand how to manage alliance relationships, negotiate agreements, and maintain stability across the state.
-
-👉 [Read Guide]({{ site.baseurl }}/pages/guides/diplomats)
+👉 [Read Guide]({{ site.baseurl }}{{ guide.url }})
 
 ---
+{% endfor %}
 
 📖 *More guides will be added over time.*

@@ -1,7 +1,7 @@
-title: Alliance Information
-description: A comprehensive guide to our Last Z Survival Shooter alliance
+alliance_name: "Chaos Kings"
+title: title: "{{ site.alliance_name }} Alliance Hub"
+description: description: "A coordinated alliance where fun comes first and teamwork drives success."
 baseurl: "/Alliance-Information"
 url: "https://boblzsurvivor-wq.github.io"
 theme: jekyll-theme-cayman
 show_downloads: false
-alliance_name: "Chaos Kings"

@@ -1,78 +1,32 @@
 ---
 layout: default
-title: Alliance Information Hub
+title: {{ site.alliance_name }} Alliance Hub
 ---
 
-# 🏠 Alliance Information Hub
+# {{ site.alliance_name }}
 
-Welcome to the Alliance Hub for *Last Z Survival Shooter*—your quick guide to joining and succeeding.
+## Mission
 
----
+We are a disciplined, coordinated alliance focused on strength, efficiency, and consistent growth.
 
-## 🎯 Quick Links
-- 📜 [Alliance Charter]({{ site.baseurl }}/pages/charter.html) – Values & rules  
-- 🏗️ [Structure]({{ site.baseurl }}/pages/structure.html) – Roles & progression  
-- 👥 [Members]({{ site.baseurl }}/pages/members.html) – Join & expectations  
-- 📖 [Guides]({{ site.baseurl }}/pages/guides) – Tips & strategies  
-- 🛠️ [Editing Guide]({{ site.baseurl }}/pages/editing-guide.html) – Update the site  
-
----
-
-## ⚡ Quick Start
-1. Read the [Charter]({{ site.baseurl }}/pages/charter.html)  
-2. Be Level 10+ & apply in-game  
-3. Get approved (24–48h) and join  
-
-→ [Full joining guide]({{ site.baseurl }}/pages/members.html#how-to-join)
+Our goal is simple:
+- Win events  
+- Support our members  
+- Operate as a unified strategic team  
 
 ---
 
-## 📊 Quick Facts
-- **Type:** Community & Cooperative  
-- **Focus:** Teamwork, Fun, Growth  
-- **Level:** 10+  
-- **Activity:** 2–3× weekly  
-- **Playstyle:** PvE & PvP  
+## 📖 Alliance Information
+
+- [Charter]({{ site.baseurl }}/pages/charter.html)
+- [Structure]({{ site.baseurl }}/pages/structure.html)
+- [Member Responsibilities]({{ site.baseurl }}/pages/members.html)
+- [Guides]({{ site.baseurl }}/pages/guides/)
 
 ---
 
-## 🎮 What We Do
-- Raids & events  
-- PvP tournaments  
-- Strategy sharing  
-- Resource farming  
-- Mentoring & community  
+## ⚡ Key Principle
 
----
+Small actions repeated across the alliance create massive results.
 
-## 💎 Core Values
-Respect • Collaboration • Growth • Integrity • Fun
-
----
-
-## 📞 Need Help?
-- ❓ [Member FAQ]({{ site.baseurl }}/pages/members.html#faq)  
-- 🎮 [Guides]({{ site.baseurl }}/pages/guides.html)  
-- 🏛️ [Structure]({{ site.baseurl }}/pages/structure.html)  
-- 🛠️ [Editing Guide]({{ site.baseurl }}/pages/editing-guide.html)  
-
-**In-game:** Ask officers or alliance chat
-
----
-
-## 🎯 Common Actions
-- Join → [How to Join]({{ site.baseurl }}/pages/members.html#how-to-join)  
-- Improve → [Guides]({{ site.baseurl }}/pages/guides.html)  
-- Learn → [Structure]({{ site.baseurl }}/pages/structure.html)  
-- Contribute → [Editing Guide]({{ site.baseurl }}/pages/editing-guide.html)  
-
----
-
-## 🔗 Site Map
-```text
-Home
-├── Charter
-├── Structure
-├── Members
-├── Guides
-└── Editing Guide
+Use help. Follow direction. Stay active.

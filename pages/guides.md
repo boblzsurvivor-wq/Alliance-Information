@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Guides & Resources
-permalink: /guides/
 ---
 
 # 📖 Guides & Resources

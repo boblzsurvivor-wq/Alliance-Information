@@ -2,14 +2,14 @@
 
 **Goal:** Start quickly, keep it easy to tap, and let everyone join.
 
-### ⏱️ Timing
-- **0:00–2:00** → First players enter immediately  
-- **2:00–2:30** → Next group joins  
-- **2:30+** → Everyone else enters  
+### ⏱️ Timing (time remaining)
+- **> 2:00** → Enter immediately  
+- **2:00 → 0:30** → Wait  
+- **< 0:30** → Everyone enters  
 
 ### ⚖️ Rules
-- Be ready and **join quickly** when it’s your time  
-- **Don’t all rush in at once**  
+- Be ready and **join quickly**  
+- **Avoid rushing all at once early**  
 - If late, just join — no stress  
 
 ### 🤝 Self-Management
@@ -17,4 +17,4 @@ Adjust based on numbers:
 - Low players → join earlier  
 - High players → wait a bit  
 
-> First few go fast, others wait briefly, then everyone joins so it stays easy to tap.
+> Quick start, short pause, then everyone in.

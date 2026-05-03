@@ -19,8 +19,14 @@ body {
 .page-header {
   padding: 1.5rem 1rem;
 
-  background: linear-gradient(#e5e7eb, #d6d3c4);
-  border-bottom: 3px solid #b91c1c; /* muted red accent */
+  background-image: 
+    linear-gradient(rgba(255,255,255,0.75), rgba(255,255,255,0.75)),
+    url('/assets/images/banner.jpg');
+
+  background-size: cover;
+  background-position: center;
+
+  border-bottom: 3px solid #b91c1c;
 }
 
 .project-name {

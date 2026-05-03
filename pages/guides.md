@@ -15,20 +15,11 @@ Your central hub for alliance strategy, coordination, and key systems.
 {% assign guides = site.pages | where_exp: "page", "page.path contains 'pages/guides_data/'" | sort: "title" %}
 
 {% for guide in guides %}
-<details>
-<summary><strong>{{ guide.title }}</strong></summary>
-
-<br>
+### 👉 [{{ guide.title }}]({{ site.baseurl }}{{ guide.url }})
 
 {{ guide.description }}
 
-{% if guide.content %}
-{{ guide.content }}
-{% endif %}
-
-</details>
-
-<br>
+---
 {% endfor %}
 
 📖 *More guides will be added over time.*

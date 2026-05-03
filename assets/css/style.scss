@@ -4,42 +4,39 @@
 @import "{{ site.theme }}";
 
 /* =========================
-   GLOBAL THEME (SURVIVAL)
+   GLOBAL (LIGHT SURVIVAL)
 ========================= */
 
 body {
-  background: #0b0f0b;
-  color: #d6d3c4;
+  background: #f4f6f3; /* soft dusty background */
+  color: #2f2f2f;
 }
 
 /* =========================
-   HEADER (DARK / BLOOD FADE)
+   HEADER (FADED / WORN)
 ========================= */
 
 .page-header {
   padding: 1.5rem 1rem;
 
-  background:
-    linear-gradient(rgba(10, 15, 10, 0.9), rgba(55, 10, 10, 0.9));
-  border-bottom: 3px solid #7f1d1d;
+  background: linear-gradient(#e5e7eb, #d6d3c4);
+  border-bottom: 3px solid #b91c1c; /* muted red accent */
 }
 
-/* Title styling */
 .project-name {
   font-size: 2rem;
-  color: #facc15;
-  text-shadow: 0 0 8px rgba(127, 29, 29, 0.8);
-  letter-spacing: 1px;
+  color: #7f1d1d;
+  letter-spacing: 0.5px;
 }
 
 .project-tagline {
   font-size: 1rem;
   margin-bottom: 0.5rem;
-  color: #d6d3c4;
+  color: #4b5563;
 }
 
 /* =========================
-   NAV (CLEAN + GLOW HOVER)
+   NAV (CLEAN + SUBTLE)
 ========================= */
 
 .site-nav {
@@ -48,17 +45,15 @@ body {
 }
 
 .site-nav a {
-  color: #e5e7eb;
+  color: #374151;
   margin: 0 0.75rem;
   font-weight: 600;
   text-decoration: none;
   background: transparent !important;
-  transition: all 0.2s ease;
 }
 
 .site-nav a:hover {
-  color: #f97316;
-  text-shadow: 0 0 6px rgba(249, 115, 22, 0.7);
+  color: #b91c1c;
 }
 
 /* =========================
@@ -70,9 +65,8 @@ body {
   font-size: 1.05rem;
   line-height: 1.7;
 
-  background: #111811;
-  border: 1px solid #2f3a2f;
-  box-shadow: 0 0 20px rgba(127, 29, 29, 0.25);
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
   padding: 2rem;
   border-radius: 6px;
 }
@@ -81,28 +75,28 @@ body {
 .main-content h1,
 .main-content h2,
 .main-content h3 {
-  color: #ef4444;
-  border-bottom: 1px solid #374151;
+  color: #7f1d1d;
+  border-bottom: 1px solid #e5e7eb;
 }
 
 /* Links */
 a {
-  color: #f97316;
+  color: #c2410c;
 }
 
 a:hover {
-  color: #facc15;
+  color: #7f1d1d;
 }
 
 /* =========================
-   CODE BLOCKS (TERMINAL FEEL)
+   CODE BLOCKS (SOFT TERMINAL)
 ========================= */
 
 code,
 pre {
-  background: #050805;
-  color: #84cc16;
-  border: 1px solid #365314;
+  background: #f3f4f6;
+  color: #065f46;
+  border: 1px solid #e5e7eb;
 }
 
 /* =========================
@@ -110,6 +104,6 @@ pre {
 ========================= */
 
 blockquote {
-  color: #9ca3af;
-  border-left: 4px solid #7f1d1d;
+  color: #6b7280;
+  border-left: 4px solid #b91c1c;
 }

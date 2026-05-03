@@ -10,7 +10,7 @@
 
 ### 🤝 Keep It Genuine
 - Give freely and with good intent  
-- Let participation and decisions stay natural  
+- Let participation and decisions stay neutural  
 - Focus on the enjoyment, not the outcome  
 
 > Red packets are about boosting morale and having fun together.

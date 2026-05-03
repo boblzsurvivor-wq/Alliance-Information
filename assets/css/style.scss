@@ -21,7 +21,7 @@ body {
 
   background-image: 
     linear-gradient(rgba(255,255,255,0.75), rgba(255,255,255,0.75)),
-    url('/assets/banner.png');
+    url('{{ "/assets/banner.png" | relative_url }}')
 
   background-size: cover;
   background-position: center;

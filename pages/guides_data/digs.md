@@ -9,12 +9,12 @@
 
 ### ⚖️ Rules
 - Be ready and **join quickly**  
-- **Avoid rushing all at once early**  
+- Follow the timing windows  
 - If late, just join — no stress  
 
 ### 🤝 Self-Management
 Adjust based on numbers:
 - Low players → join earlier  
-- High players → wait a bit  
+- High players → hold slightly  
 
 > Quick start, short pause, then everyone in.

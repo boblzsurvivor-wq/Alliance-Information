@@ -3,44 +3,113 @@
 
 @import "{{ site.theme }}";
 
-/* Smaller Cayman banner */
-.page-header {
-  padding: 1.5rem 1rem;
+/* =========================
+   GLOBAL THEME (SURVIVAL)
+========================= */
+
+body {
+  background: #0b0f0b;
+  color: #d6d3c4;
 }
 
-/* Title sizing */
+/* =========================
+   HEADER (DARK / BLOOD FADE)
+========================= */
+
+.page-header {
+  padding: 1.5rem 1rem;
+
+  background:
+    linear-gradient(rgba(10, 15, 10, 0.9), rgba(55, 10, 10, 0.9));
+  border-bottom: 3px solid #7f1d1d;
+}
+
+/* Title styling */
 .project-name {
   font-size: 2rem;
+  color: #facc15;
+  text-shadow: 0 0 8px rgba(127, 29, 29, 0.8);
+  letter-spacing: 1px;
 }
 
 .project-tagline {
   font-size: 1rem;
   margin-bottom: 0.5rem;
+  color: #d6d3c4;
 }
 
-/* 🔥 FIX: force nav to be transparent */
+/* =========================
+   NAV (CLEAN + GLOW HOVER)
+========================= */
+
 .site-nav {
   margin-top: 1rem;
   background: transparent !important;
 }
 
-/* Remove any background from links too */
 .site-nav a {
-  color: white;
+  color: #e5e7eb;
   margin: 0 0.75rem;
   font-weight: 600;
   text-decoration: none;
   background: transparent !important;
+  transition: all 0.2s ease;
 }
 
-/* Hover */
 .site-nav a:hover {
-  text-decoration: underline;
+  color: #f97316;
+  text-shadow: 0 0 6px rgba(249, 115, 22, 0.7);
 }
 
-/* Content readability */
+/* =========================
+   CONTENT PANEL
+========================= */
+
 .main-content {
   max-width: 900px;
   font-size: 1.05rem;
   line-height: 1.7;
+
+  background: #111811;
+  border: 1px solid #2f3a2f;
+  box-shadow: 0 0 20px rgba(127, 29, 29, 0.25);
+  padding: 2rem;
+  border-radius: 6px;
+}
+
+/* Headings */
+.main-content h1,
+.main-content h2,
+.main-content h3 {
+  color: #ef4444;
+  border-bottom: 1px solid #374151;
+}
+
+/* Links */
+a {
+  color: #f97316;
+}
+
+a:hover {
+  color: #facc15;
+}
+
+/* =========================
+   CODE BLOCKS (TERMINAL FEEL)
+========================= */
+
+code,
+pre {
+  background: #050805;
+  color: #84cc16;
+  border: 1px solid #365314;
+}
+
+/* =========================
+   BLOCKQUOTES
+========================= */
+
+blockquote {
+  color: #9ca3af;
+  border-left: 4px solid #7f1d1d;
 }

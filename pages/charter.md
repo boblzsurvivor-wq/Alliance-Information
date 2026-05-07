@@ -169,8 +169,7 @@ Members are expected to:
 - Respect others  
 - Contribute to the alliance  
 - <u>Maintain only one primary account within the alliance</u>  
-- <u>Keep farm accounts in the designated farm alliance</u>  
-- <u>Actively contribute toward Alliance Recognition research whenever possible</u>  
+- <u>Keep farm accounts in the designated farm alliance</u>
 
 ---
 

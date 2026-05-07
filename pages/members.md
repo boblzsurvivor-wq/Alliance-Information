@@ -47,7 +47,7 @@ Members should:
 - Follow coordination where needed  
 - Prepare when guidance is given  
 - Avoid unnecessary waste  
-- <u>Work towards and finish Alliance Recognition research tree</u>  
+- <u>Contribute toward Alliance Recognition research whenever possible</u>  
 
 Real life always comes first — communication matters more than perfect participation.
 
@@ -58,16 +58,75 @@ Real life always comes first — communication matters more than perfect partici
 Members should:
 
 - Improve their account over time  
-- Support alliance progression  
-- Help newer members where possible  
-- Work together toward alliance goals  
+- Follow guidance from officers  
+- Work toward shared goals  
+
+Growth is encouraged, not enforced.
+
+---
+
+## COMMUNICATION
+
+Members should:
+
+- Read notices and alliance mail  
+- Respond when needed  
+- Ask questions if unsure  
+- <u>Notify leadership if extended inactivity is expected</u>  
+
+Good communication prevents problems.
+
+---
+
+## BEHAVIOUR
+
+Members must:
+
+- Be respectful  
+- Support a positive environment  
+- Avoid unnecessary conflict  
+
+This is a team — not just a group of players.
+
+---
+
+## FLEXIBILITY
+
+We understand:
+
+- Real life comes first  
+- Not everyone can participate all the time  
+
+Consistency matters more than perfection.
+
+---
+
+## REMOVAL CONDITIONS
+
+Members may be removed for:
+
+- Extended inactivity without communication  
+- Repeated refusal to follow key instructions  
+- Toxic behaviour  
+- Actions that harm the alliance  
+- <u>Being inactive for 10 days without communication</u>  
+
+---
+
+## KEY IDEA
+
+The alliance works because people choose to contribute.
+
+Leadership supports you.  
+Officers guide you.  
+You help build the alliance.
 
 ---
 
 ## FINAL NOTE
 
-A strong alliance is built by members who contribute consistently, communicate clearly, and support each other.
+Play well. Support each other.
 
-Above all:
+And most importantly:
 
-**Have fun, work together, and help the alliance grow.**
+**Have fun.**

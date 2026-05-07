@@ -168,6 +168,29 @@ Members are expected to:
 - Follow key instructions  
 - Respect others  
 - Contribute to the alliance  
+- <u>Maintain only one primary account within the alliance</u>  
+- <u>Keep farm accounts in the designated farm alliance</u>  
+- <u>Actively contribute toward Alliance Recognition research whenever possible</u>  
+
+---
+
+## <u>COMMUNITY SAFETY</u>
+
+<u>Solicitation of money from alliance members is strictly prohibited.</u>
+
+<u>Any attempt to request, pressure, or solicit money from another player should be reported to alliance leadership immediately.</u>
+
+<u>This rule exists to protect members and maintain a safe and respectful alliance environment.</u>
+
+---
+
+## <u>INACTIVITY POLICY</u>
+
+<u>Members inactive for 10 days without communication may lose membership eligibility.</u>
+
+<u>If extended inactivity is expected, members should notify leadership in advance where possible.</u>
+
+<u>Exceptions may be considered for communicated absences.</u>
 
 ---
 

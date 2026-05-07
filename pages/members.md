@@ -34,6 +34,8 @@ Members are expected to:
 - Use alliance help  
 - Read alliance messages  
 - Support other members  
+- <u>Maintain only one primary account within the alliance</u>  
+- <u>Keep farm accounts in the designated farm alliance</u>  
 
 ---
 
@@ -47,6 +49,7 @@ Members should:
 - Follow coordination where needed  
 - Prepare when guidance is given  
 - Avoid unnecessary waste  
+- <u>Contribute toward Alliance Recognition research whenever possible</u>  
 
 Real life always comes first — communication matters more than perfect participation.
 
@@ -57,73 +60,24 @@ Real life always comes first — communication matters more than perfect partici
 Members should:
 
 - Improve their account over time  
-- Follow guidance from officers  
-- Work toward shared goals  
-
-Growth is encouraged, not enforced.
-
----
-
-## COMMUNICATION
-
-Members should:
-
-- Read notices and alliance mail  
-- Respond when needed  
-- Ask questions if unsure  
-
-Good communication prevents problems.
+- Support alliance progression  
+- Help newer members where possible  
+- Work together toward alliance goals  
 
 ---
 
-## BEHAVIOUR
+## <u>ACTIVITY & COMMUNICATION</u>
 
-Members must:
+<u>If you expect to be inactive for an extended period, notify leadership where possible.</u>
 
-- Be respectful  
-- Support a positive environment  
-- Avoid unnecessary conflict  
-
-This is a team — not just a group of players.
-
----
-
-## FLEXIBILITY
-
-We understand:
-
-- Real life comes first  
-- Not everyone can participate all the time  
-
-Consistency matters more than perfection.
-
----
-
-## REMOVAL CONDITIONS
-
-Members may be removed for:
-
-- Extended inactivity without communication  
-- Repeated refusal to follow key instructions  
-- Toxic behaviour  
-- Actions that harm the alliance  
-
----
-
-## KEY IDEA
-
-The alliance works because people choose to contribute.
-
-Leadership supports you.  
-Officers guide you.  
-You help build the alliance.
+<u>Members inactive for 10 days without communication may lose membership eligibility.</u>
 
 ---
 
 ## FINAL NOTE
 
-Play well. Support each other.
+A strong alliance is built by members who contribute consistently, communicate clearly, and support each other.
 
-And most importantly:
+Above all:
 
-**Have fun.**
+**Have fun, work together, and help the alliance grow.**

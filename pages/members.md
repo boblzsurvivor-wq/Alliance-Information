@@ -49,7 +49,7 @@ Members should:
 - Follow coordination where needed  
 - Prepare when guidance is given  
 - Avoid unnecessary waste  
-- <u>Contribute toward Alliance Recognition research whenever possible</u>  
+- <u>Work towards and finish Alliance Recognition research tree</u>  
 
 Real life always comes first — communication matters more than perfect participation.
 
@@ -63,14 +63,6 @@ Members should:
 - Support alliance progression  
 - Help newer members where possible  
 - Work together toward alliance goals  
-
----
-
-## <u>ACTIVITY & COMMUNICATION</u>
-
-<u>If you expect to be inactive for an extended period, notify leadership where possible.</u>
-
-<u>Members inactive for 10 days without communication may lose membership eligibility.</u>
 
 ---
 

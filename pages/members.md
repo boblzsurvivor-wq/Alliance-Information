@@ -49,7 +49,7 @@ Members should:
 - Follow coordination where needed  
 - Prepare when guidance is given  
 - Avoid unnecessary waste  
-- <u>Contribute toward Alliance Recognition research whenever possible</u>  
+- Contribute toward Alliance Recognition research whenever possible 
 
 Real life always comes first — communication matters more than perfect participation.
 

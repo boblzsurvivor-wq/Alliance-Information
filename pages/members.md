@@ -127,7 +127,7 @@ Members should:
 - Read notices and alliance mail  
 - Respond when needed  
 - Ask questions if unsure  
-- <u>Notify leadership if extended inactivity is expected</u>  
+- Notify leadership if extended inactivity is expected 
 
 Good communication prevents problems.
 
@@ -164,7 +164,7 @@ Members may be removed for:
 - Repeated refusal to follow key instructions  
 - Toxic behaviour  
 - Actions that harm the alliance  
-- <u>Being inactive for 10 days without communication</u>  
+- Being inactive for 10 days without communication
 
 ---
 

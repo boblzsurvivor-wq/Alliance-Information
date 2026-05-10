@@ -34,8 +34,8 @@ Members are expected to:
 - Use alliance help  
 - Read alliance messages  
 - Support other members  
-- Maintain only one primary account within the alliance
-- Keep farm accounts in the designated farm alliance
+- Maintain only one primary account within the alliance  
+- Keep farm accounts in the designated farm alliance  
 
 ---
 
@@ -49,7 +49,7 @@ Members should:
 - Follow coordination where needed  
 - Prepare when guidance is given  
 - Avoid unnecessary waste  
-- Contribute toward Alliance Recognition research whenever possible 
+- Work toward completing personal Alliance Recognition research over time  
 
 Real life always comes first — communication matters more than perfect participation.
 
@@ -110,16 +110,6 @@ The alliance values effort, teamwork, and steady improvement over raw numbers.
 
 ---
 
-## ALLIANCE RECOGNITION (AR)
-
-Members are encouraged to steadily improve Alliance Recognition research over time.
-
-The alliance may establish gradual milestone goals to create a realistic roadmap for long-term progression and contribution.
-
-Consistent improvement is valued more than immediate perfection.
-
----
-
 ## COMMUNICATION
 
 Members should:
@@ -127,7 +117,7 @@ Members should:
 - Read notices and alliance mail  
 - Respond when needed  
 - Ask questions if unsure  
-- Notify leadership if extended inactivity is expected 
+- Notify leadership if extended inactivity is expected  
 
 Good communication prevents problems.
 
@@ -164,7 +154,7 @@ Members may be removed for:
 - Repeated refusal to follow key instructions  
 - Toxic behaviour  
 - Actions that harm the alliance  
-- Being inactive for 10 days without communication
+- Being inactive for 10 days without communication  
 
 ---
 

@@ -34,8 +34,8 @@ Members are expected to:
 - Use alliance help  
 - Read alliance messages  
 - Support other members  
-- <u>Maintain only one primary account within the alliance</u>  
-- <u>Keep farm accounts in the designated farm alliance</u>  
+- Maintain only one primary account within the alliance
+- Keep farm accounts in the designated farm alliance
 
 ---
 
